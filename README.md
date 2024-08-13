@@ -1,4 +1,4 @@
-# Project A.L.I.E.N. HC-SR04 Test Code
+# Project A.L.I.E.N. Ultrasonic Test Code
 
 <!-- Harry Boyd - 13/08/2024 - github.com/hboyd255 -->
 
